@@ -33,7 +33,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/namoss666/namoss666/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
 
